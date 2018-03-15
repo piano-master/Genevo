@@ -1,0 +1,169 @@
+Hungrybox
+	Mang0 2-0
+	Mew2King 1-0
+	Wizzrobe 1-0
+	S2J 1-0
+	Nintendude 1-0
+	Vro 1-0
+	MattDotZeb 1-0
+Mang0
+	Hungrybox 0-2
+	S2J 1-0
+	Plup 1-0
+	ChuDat 1-0
+	PewPewU 1-0
+	Captain_Smuckers 1-0
+	Rik 1-0
+S2J
+	Mang0 0-1
+	Mew2King 1-0
+	Plup 1-0
+	Shroomed 1-0
+	Ice 1-0
+	HugS 1-0
+	SFAT 1-0
+	Hungrybox 0-1
+	Duck 1-0
+	2saint 1-0
+Mew2King
+	S2J 0-1
+	Leffen 1-0
+	Hungrybox 0-1
+	Ice 1-0
+	Shroomed 1-0
+	Rishi 1-0
+	mayb 1-0
+Leffen
+	Mew2King 0-1
+	ChuDat 1-0
+	Plup 0-1
+	PewPewU 1-0
+	Lucky 1-0
+	Gahtzu 1-0
+	CDK 1-0
+Plup
+	S2J 0-1
+	Mang0 0-1
+	Leffen 1-0
+	La_Luna 1-0
+	Trif 1-0
+	R2DLiu 1-0
+ChuDat
+	Leffen 0-1
+	Mang0 0-1
+	Westballz 1-0
+	Spark 1-0
+	dizzkidboogie 1-0
+	EastCoastJeff 1-0
+Shroomed
+	S2J 0-1
+	Wizzrobe 1-0
+	Nintendude 1-0
+	Syrox 1-0
+	Mew2King 0-1
+	HugS 1-0
+	Zeo 1-0
+Wizzrobe
+	Shroomed 0-1
+	Hungrybox 0-1
+	MikeHaze 1-0
+	KJH 1-0
+	KoopaTroopa895 1-0
+Ice
+	S2J 0-1
+	Mew2King 0-1
+	Rocky 1-0
+	Swedish_Delight 1-0
+	Kels 1-0
+Nintendude
+	Shroomed 0-1
+	Rocky 1-0
+	Duck 1-0
+	Zealous5000 1-0
+	Hungrybox 0-1
+	Slox 1-0
+	TheSWOOPER 1-0
+HugS
+	S2J 0-1
+	MikeHaze 1-0
+	Rishi 1-0
+	2saint 1-0
+	Shroomed 0-1
+	Trulliam 1-0
+Syrox
+	Shroomed 0-1
+	Kels 1-0
+	KJH 1-0
+	vortex 1-0
+	Junebug 0-1
+	Boyd 1-0
+Rocky
+	Nintendude 0-1
+	Ice 0-1
+	Junebug 1-0
+	SFAT 1-0
+	HT 1-0
+SFAT
+	S2J 0-1
+	Junebug 1-0
+	Swedish_Delight 1-0
+	AbsentPage 1-0
+	TheSWOOPER 1-0
+	Rocky 0-1
+MikeHaze
+	HugS 0-1
+	Wizzrobe 0-1
+	Reeve 1-0
+	AbsentPage 1-0
+Kels
+	Syrox 0-1
+	Reeve 1-0
+	Cal 1-0
+	Ice 0-1
+Duck
+	Nintendude 0-1
+	Trulliam 1-0
+	S2J 0-1
+	Zealous5000 1-0
+Zealous5000
+	Nintendude 0-1
+	Ginger 1-0
+	Duck 0-1
+	vortex 1-0
+Swedish_Delight
+	SFAT 0-1
+	Ice 0-1
+	homemadewaffles 1-0
+2saint
+	HugS 0-1
+	dudutsai 1-0
+	HT 1-0
+	S2J 0-1
+	Zorc 1-0
+Slox
+	Rishi 0-1
+	Zeo 1-0
+	Nintendude 0-1
+Vro
+	Trulliam 0-1
+	Hungrybox 0-1
+	Cal 1-0
+Junebug
+	SFAT 0-1
+	Rocky 0-1
+	Syrox 1-0
+Rishi
+	HugS 0-1
+	Slox 1-0
+	Mew2King 0-1
+	Ginger 1-0
+Reeve
+	Kels 0-1
+	MikeHaze 0-1
+KJH
+	Syrox 0-1
+	Wizzrobe 0-1
+	Cactuar 1-0
+	dudutsai 1-0
+Trulliam
+	

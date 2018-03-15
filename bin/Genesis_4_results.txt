@@ -1,0 +1,487 @@
+Armada
+	Mang0 2-0
+	Mew2King 1-0
+	Westballz 1-0
+	S2J 1-0
+	KJH 1-0
+	Tai 1-0
+	KoopaTroopa895 1-0
+Mang0
+	Armada 0-2
+	Mew2King 1-0
+	Hungrybox 2-0
+	Leffen 1-0
+	Wizzrobe 1-0
+	KirbyKaze 1-0
+	Fiction 1-0
+Mew2King
+	Mang0 0-1
+	Armada 0-1
+	Plup 1-0
+	Axe 1-0
+	PewPewU 1-0
+	Zhu 1-0
+	Squid 1-0
+Hungrybox
+	Mang0 0-2
+	Plup 1-0
+	Westballz 1-0
+	Lucky 1-0
+	ChuDat 1-0
+	Abate 1-0
+	Darkatma 1-0
+Leffen
+	Mang0 0-1
+	Axe 1-0
+	Plup 0-1
+	Duck 1-0
+	HugS 1-0
+Plup
+	Hungrybox 0-1
+	Mew2King 0-1
+	Leffen 1-0
+	ARMY 1-0
+	dizzkidboogie 1-0
+	Zeo 1-0
+	Rudolph 1-0
+Bobby_Frizz
+	dizzkidboogie 0-1
+	Santi 1-0
+Axe
+	Leffen 0-1
+	S2J 1-0
+	Mew2King 0-1
+	SFAT 1-0
+	Crush 1-0
+	Captain_Smuckers 1-0
+Captain_Smuckers
+	Axe 0-1
+	silentspectre 0-1
+Westballz
+	Hungrybox 0-1
+	SFAT 1-0
+	Armada 0-1
+	Rishi 1-0
+	Colbol 1-0
+	DJ_Nintendo 1-0
+	ycz6 1-0
+ycz6
+	FatGoku 1-0
+	Westballz 0-1
+	vortex 0-1
+DJ_Nintendo
+	Westballz 0-1
+	Fat_Goku 0-1
+homemadewaffles
+	Colbol 0-1
+	FatGoku 0-1
+	vortex 1-0
+vortex
+	homemadewaffles 0-1
+	ycz6 1-0
+	Captain_Faceroll 0-1
+S2J
+	Axe 0-1
+	dizzkidboogie 1-0
+	HugS 1-0
+	Armada 0-1
+	Nintendude 1-0
+	Boulevard 1-0
+	Amsah 1-0
+Crunch
+	Boulevard 0-1
+	AbsentPage 0-1
+AbsentPage
+	Rustin 1-0
+	Nintendude 0-1
+	Crunch 1-0
+	G$ 1-0
+	Amsah 0-1
+G$
+	Eddy_Mexico 0-1
+	AbsentPage 0-1
+Ka-Master
+	Amsah 0-1
+	Boulevard 0-1
+Boulevard
+	Crunch 1-0
+	S2J 0-1
+	Rustin 1-0
+	Ka-Master 1-0
+	Eddy_Mexico 0-1
+Rustin
+	AbsentPage 0-1
+	Boulevard 0-1
+ChuDat
+	Leffen 0-1
+	Wizzrobe 1-0
+	Crush 1-0
+	Hungrybox 0-1
+	Shroomed 1-0
+	Slox 1-0
+	L 1-0
+Tafokints
+	Vinodh 0-1
+Android
+	LuigiKid 0-1
+	Vinodh 1-0
+	Slox 0-1
+LuigiKid
+	Android 1-0
+	Shroomed 0-1
+	Reno 0-1
+L
+	ChuDat 0-1
+Vinodh
+	Shroomed 0-1
+	Tafokints 1-0
+	Android 0-1
+Lucky
+	Hungrybox 0-1
+	KJH 1-0
+	ARMY 1-0
+	Professor_Pro 1-0
+	Colbol 1-0
+	Zgetto 1-0
+	Syrox 0-1
+	Alan 1-0
+	CIZ 1-0
+Alan
+	Lucky 0-1
+	CIZ 0-1
+Redd
+	PewPewU 0-1
+Ken
+	Syrox 0-1
+	CIZ 0-1
+SFAT
+	Westballz 0-1
+	Swedish_Delight 1-0
+	Shroomed 1-0
+	Axe 0-1
+	MacD 1-0
+	Zain 1-0
+Ralph
+	Prince_Abu 1-0
+	MacD 0-1
+	Vro 0-1
+dizzkidboogie
+	S2J 0-1
+	Rishi 1-0
+	Ice 1-0
+	Medz 1-0
+	Plup 0-1
+	Bobby_Frizz 1-0
+Wizzrobe
+	ChuDat 0-1
+	Druggedfox 1-0
+	Mang0 0-1
+	Mafia 1-0
+	Zgetto 1-0
+La_Luna
+	Mafia 0-1
+	Medz 0-1
+Phil
+	Medz 0-1
+KJH
+	Lucky 0-1
+	Duck 1-0
+	MikeHaze 1-0
+	Reno 1-0
+	Armada 0-1
+	Gahtzu 1-0
+KoopaTroopa895
+	Vish 1-0
+	Armada 0-1
+	Reeve 1-0
+	Gahtzu 0-1
+Kira
+	Gahtzu 0-1
+	Tai 0-1
+Vish
+	KoopaTroopa895 0-1
+Swedish_Delight
+	SFAT 0-1
+	PewPewU 1-0
+	Mafia 1-0
+	KirbyKaze 1-0
+	Darrell 1-0
+	Rishi 0-1
+Nightmare
+	Hungry_Pigeon 1-0
+	Rishi 0-1
+	Bladewise 0-1
+Rishi
+	dizzkidboogie 0-1
+	Westballz 0-1
+	Professor_Pro 1-0
+	Swedish_Delight 1-0
+	Nightmare 1-0
+HugS
+	S2J 0-1
+	Kels 1-0
+	Slox 1-0
+	Leffen 0-1
+	Zorc 1-0
+	darkrain 1-0
+Zorc
+	Laudandus 1-0
+	HugS 0-1
+	R2DLiu 0-1
+	dunk 1-0
+Laudandus
+	Zorc 0-1
+	darkrain 1-0
+	Frootloop 0-1
+R2DLiu
+	Leffen 0-1
+	dunk 1-0
+	lovage 1-0
+	Zorc 0-1
+darkrain
+	HugS 0-1
+	Laudandus 0-1
+lovage
+	Frootloop 0-1
+	R2DLiu 0-1
+Crush
+	ChuDat 0-1
+	MacD 1-0
+	Gahtzu 1-0
+	Axe 0-1
+	Eikelmann 1-0
+Druggedfox
+	Wizzrobe 0-1
+	Santi 1-0
+	Zhu 1-0
+	Bladewise 1-0
+	Darrell 0-1
+	Ryan_Ford 1-0
+	Drunksloth 1-0
+MrLz
+	Ice 0-1
+Drunksloth
+	Cactuar 1-0
+	Ice 0-1
+	Druggedfox 0-1
+Ryan_Ford
+	ARMY 0-1
+	Druggedfox 0-1
+Cactuar
+	Drunksloth 0-1
+	Darrell 0-1
+ARMY
+	Lucky 0-1
+	Ice 1-0
+	Plup 0-1
+	Darrell 1-0
+	Ryan_Ford 1-0
+Duck
+	KJH 0-1
+	Leffen 0-1
+	Kels 1-0
+	Azusa 1-0
+Blea_Gelo
+	Azusa 0-1
+	n0ne 0-1
+Azusa
+	Blea_Gelo 1-0
+	Duck 0-1
+	s0ft 0-1
+Shroomed
+	SFAT 0-1
+	Abate 1-0
+	Tai 1-0
+	ChuDat 0-1
+	LuigiKid 1-0
+	Vinodh 1-0
+PewPewU
+	Swedish_Delight 0-1
+	Mew2King 0-1
+	Syrox 1-0
+	Redd 1-0
+Ice
+	dizzkidboogie 0-1
+	Kalamazhu 1-0
+	ARMY 0-1
+	Drunksloth 1-0
+	MrLz 1-0
+Kels
+	HugS 0-1
+	Zain 1-0
+	Duck 0-1
+	n0ne 1-0
+	s0ft 1-0
+MacD
+	Crush 0-1
+	s0ft 1-0
+	SFAT 0-1
+	Ralph 1-0
+Santi
+	Druggedfox 0-1
+	Syrox 1-0
+	Captain_Faceroll 1-0
+	Bobby_Frizz 0-1
+	gaR 1-0
+	Rudolph 1-0
+Rudolph
+	Plup 0-1
+	Santi 0-1
+Professor_Pro
+	Lucky 0-1
+	Chillindude 1-0
+	Rishi 0-1
+	Bladewise 1-0
+MikeHaze
+	KJH 0-1
+	Nintendude 1-0
+	Vro 1-0
+	Iceman 0-1
+	HT 1-0
+	Darkatma 1-0
+Abate
+	Shroomed 0-1
+	n0ne 1-0
+	Hungrybox 0-1
+	Iceman 1-0
+Mafia
+	Swedish_Delight 0-1
+	Wizzrobe 0-1
+	La_Luna 1-0
+Kalamazhu
+	Ice 0-1
+	Fiction 0-1
+	CDK 1-0
+Medz
+	dizzkidboogie 0-1
+	CIZ 1-0
+	Zgetto 0-1
+	La_Luna 1-0
+	Phil 1-0
+Zain
+	Kels 0-1
+	Iceman 1-0
+	Vro 1-0
+	SFAT 0-1
+	Prince_Abu 1-0
+Slox
+	HugS 0-1
+	silentspectre 1-0
+	Reno 1-0
+	ChuDat 0-1
+	Android 1-0
+Gahtzu
+	Crush 0-1
+	Frootloop 1-0
+	Kira 1-0
+	KJH 0-1
+	KoopaTroopa895 1-0
+s0ft
+	MacD 0-1
+	Eddy_Mexico 1-0
+	Kels 0-1
+	Azusa 1-0
+Syrox
+	Santi 0-1
+	PewPewU 0-1
+	Ken 1-0
+	Lucky 1-0
+Zhu
+	Druggedfox 0-1
+	Mew2King 0-1
+	Chillindude 1-0
+Chillindude
+	Professor_Pro 0-1
+	Fiction 1-0
+	Zhu 0-1
+Colbol
+	Lucky 0-1
+	Westballz 0-1
+	homemadewaffles 1-0
+	Captain_Faceroll 1-0
+Nintendude
+	MikeHaze 0-1
+	S2J 0-1
+	AbsentPage 1-0
+	Eddy_Mexico 1-0
+Reno
+	KJH 0-1
+	Eikelmann 1-0
+	Slox 0-1
+	Barraca 1-0
+	LuigiKid 1-0
+Tai
+	Shroomed 0-1
+	R2DLiu 1-0
+	Reeve 1-0
+	Armada 0-1
+n0ne
+	Abate 0-1
+	Amsah 1-0
+	Kels 0-1
+	Blea_Gelo 1-0
+KirbyKaze
+	Swedish_Delight 0-1
+	Mang0 0-1
+	MattDotZeb 1-0
+	CDK 1-0
+CIZ
+	Medz 0-1
+	Alan 1-0
+	Lucky 0-1
+	Ken 1-0
+	Redd 1-0
+Iceman
+	Zain 0-1
+	MikeHaze 1-0
+	Abate 0-1
+silentspectre
+	Slox 0-1
+	Captain_Smuckers 1-0
+Frootloop
+	lovage 1-0
+	Leffen 0-1
+	Laudandus 1-0
+Eddy_Mexico
+	s0ft 0-1
+	G$ 1-0
+	Nintendude 0-1
+	Boulevard 1-0
+Captain_Faceroll
+	Santi 0-1
+	Colbol 0-1
+	vortex 1-0
+Bladewise
+	Druggedfox 0-1
+	Professor_Pro 0-1
+	Nightmare 1-0
+Fiction
+	Chillindude 0-1
+	Kalamazhu 1-0
+	Mang0 0-1
+	hat 1-0
+Zgetto
+	Lucky 0-1
+	Medz 1-0
+	Wizzrobe 0-1
+Vro
+	MikeHaze 0-1
+	Zain 0-1
+	Ralph 1-0
+Eikelmann
+	Reno 0-1
+	Crush 0-1
+Amsah
+	n0ne 0-1
+	Ka-Master 1-0
+	S2J 0-1
+	AbsentPage 1-0
+FatGoku
+	ycz6 0-1
+	homemadewaffles 1-0
+	DJ_Nintendo 1-0
+Darrell
+	Swedish_Delight 0-1
+	Druggedfox 1-0
+	ARMY 0-1
+	Cactuar 1-0

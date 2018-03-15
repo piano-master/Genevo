@@ -1,0 +1,282 @@
+MacD
+	Plup 0-1
+	Lucky 0-1
+Plup
+	MacD 1-0
+	PewPewU 1-0
+	Mew2King 1-0
+	Armada 1-0
+	Leffen 1-0
+	Hungrybox 0-2
+PewPewU
+	S2J 1-0
+	Plup 0-1
+	Zain 1-0
+	Wizzrobe 0-1
+S2J
+	PewPewU 0-1
+	KJH 1-0
+	Lucky 1-0
+	Junebug 1-0
+	Shroomed 1-0
+	Slox 1-0
+	Mew2King 0-1
+Duck
+	Druggedfox 1-0
+	Mew2King 0-1
+	Wizzrobe 0-1
+	Captain_Faceroll 1-0
+Druggedfox
+	Duck 0-1
+	Rik 1-0
+	llod 0-1
+	Android 1-0
+Mew2King
+	llod 1-0
+	Duck 1-0
+	Plup 0-1
+	Swedish_Delight 1-0
+	S2J 1-0
+	Hungrybox 0-1
+llod
+	Mew2King 0-1
+	Spark 1-0
+	Druggedfox 1-0
+	Shroomed 0-1
+Axe
+	Ryan_Ford 0-1
+	Trulliam 1-0
+	ARMY 1-0
+	Swedish_Delight 1-0
+Ryan_Ford
+	Axe 1-0
+	Slox 0-1
+	aMSa 0-1
+L
+	Slox 0-1
+	ARMY 0-1
+	Tai 1-0
+	Wizzrobe 1-0
+Slox
+	L 1-0
+	Ryan_Ford 1-0
+	Armada 0-1
+	S2J 0-1
+	MikeHaze 1-0
+Nintendude
+	Armada 0-1
+	MilkMan 1-0
+	Bladewise 1-0
+	ChuDat 0-1
+Armada
+	Nintendude 1-0
+	Kage 1-0
+	Slox 1-0
+	Plup 0-1
+	Mang0 1-0
+	Hungrybox 0-1
+Bobby_Frizz
+	Kage 0-1
+	Bladewise 0-1
+Kage
+	Bobby_Frizz 1-0
+	Armada 0-1
+	Crush 0-1
+Leffen
+	Gahtzu 1-0
+	Junebug 1-0
+	Mang0 1-0
+	Hungrybox 1-1
+	Plup 0-1
+Gahtzu
+	Leffen 0-1
+	Drunksloth 0-1
+	dizzkidboogie 1-0
+Zain
+	Junebug 0-1
+	Drephen 1-0
+	Drunksloth 1-0
+	PewPewU 0-1
+	Ginger 1-0
+Junebug
+	Zain 1-0
+	Leffen 0-1
+	S2J 0-1
+	vortex 1-0
+	Reeve 1-0
+HugS
+	Shroomed 0-1
+	Wizzrobe 0-1
+Shroomed
+	HugS 1-0
+	Mang0 0-1
+	llod 1-0
+	S2J 0-1
+Mang0
+	Professor_Pro 1-0
+	Shroomed 1-0
+	Leffen 0-1
+	Crush 1-0
+	Wizzrobe 1-0
+	Armada 0-1
+Professor_Pro
+	Mang0 0-1
+	KPAN 0-1
+	Moky 1-0
+n0ne
+	Swedish_Delight 0-1
+	Colbol 0-1
+Swedish_Delight
+	n0ne 1-0
+	Hungrybox 0-1
+	Axe 1-0
+	ChuDat 1-0
+	Mew2King 0-1
+Hungrybox
+	aMSa 1-0
+	Swedish_Delight 1-0
+	SFAT 1-0
+	Leffen 1-1
+	Mew2King 1-0
+	Armada 1-0
+	Plup 2-0
+aMSa
+	Hungrybox 0-1
+	Ka-Master 1-0
+	Colbol 1-0
+	Ryan_Ford 1-0
+	Crush 0-1
+SFAT
+	Amsah 1-0
+	ChuDat 1-0
+	Hungrybox 0-1
+	Wizzrobe 0-1
+Amsah
+	SFAT 0-1
+	Ginger 0-1
+ChuDat
+	Crush 1-0
+	SFAT 0-1
+	Nintendude 1-0
+	Swedish_Delight 0-1
+Crush
+	ChuDat 0-1
+	homemadewaffles 1-0
+	Ginger 1-0
+	Kage 1-0
+	aMSa 1-0
+	Mang0 0-1
+homemadewaffles
+	RockCrock 1-0
+	Crush 0-1
+RockCrock
+	homemadewaffles 0-1
+Cal
+	Ginger 0-1
+Ginger
+	Cal 1-0
+	Amsah 1-0
+	Crush 0-1
+	Zain 0-1
+	Westballz 1-0
+Android
+	Ka-Master 0-1
+	Druggedfox 0-1
+Ka-Master
+	Android 1-0
+	aMSa 0-1
+Darkatma
+	Colbol 0-1
+Colbol
+	Darkatma 1-0
+	n0ne 1-0
+	aMSa 0-1
+KPAN
+	mayb 1-0
+	Professor_Pro 1-0
+	Wizzrobe 0-1
+mayb
+	KPAN 0-1
+Wizzrobe
+	Kalamazhu 1-0
+	HugS 1-0
+	KPAN 1-0
+	Duck 1-0
+	PewPewU 1-0
+	SFAT 1-0
+	Mang0 0-1
+	L 0-1
+	MikeHaze 1-0
+Kalamazhu
+	Wizzrobe 0-1
+Fat_Goku
+	Drephen 0-1
+Drephen
+	Fat_Goku 1-0
+	Zain 0-1
+Redd
+	Drunksloth 0-1
+Drunksloth
+	Redd 1-0
+	Gahtzu 1-0
+	Zain 0-1
+dizzkidboogie
+	Bladewise 0-1
+	Gahtzu 0-1
+Bladewise
+	dizzkidboogie 1-0
+	Bobby_Frizz 1-0
+	Nintendude 0-1
+vortex
+	MilkMan 0-1
+	Westballz 1-0
+	Junebug 0-1
+MilkMan
+	vortex 1-0
+	Nintendude 0-1
+ARMY
+	Captain_Faceroll 1-0
+	L 1-0
+	Axe 0-1
+Captain_Faceroll
+	ARMY 0-1
+	Duck 0-1
+Moky
+	Trulliam 0-1
+	Colbol 1-0
+	Professor_Pro 0-1
+Trulliam
+	Moky 1-0
+	Axe 0-1
+Alan
+	Spark 0-1
+Spark
+	Alan 1-0
+	llod 0-1
+Rik
+	Tai 1-0
+	Druggedfox 0-1
+Tai
+	Rik 0-1
+	L 0-1
+KJH
+	Blea_Gelo 1-0
+	S2J 0-1
+Blea_Gelo
+	KJH 0-1
+Zealous5000
+	Lucky 0-1
+Lucky
+	Zealous5000 1-0
+	MacD 1-0
+	S2J 0-1
+MikeHaze
+	Wizzrobe 0-1
+	Slox 0-1
+Westballz
+	vortex 0-1
+	Ginger 0-1
+	Reeve 1-0
+Reeve
+	Junebug 0-1
+	Westballz 0-1

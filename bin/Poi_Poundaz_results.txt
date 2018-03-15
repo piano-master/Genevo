@@ -1,0 +1,24 @@
+S2J
+	Bladewise 1-0
+	Lucky 2-0
+aMSa
+	Bladewise 0-1
+	Rustin 1-0
+	HugS 0-1
+Bladewise
+	aMSa 1-0
+	S2J 0-1
+	Ka-Master 1-0
+	HugS 1-0
+	Lucky 0-1
+Lucky
+	HugS 1-0
+	S2J 0-2
+	Bladewise 1-0
+HugS
+	Ka-Master 1-0
+	Lucky 0-1
+	aMSa 1-0
+	Bladewise 0-1
+Rustin
+	aMSa 0-1

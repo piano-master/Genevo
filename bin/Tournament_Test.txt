@@ -1,0 +1,49 @@
+Armada
+	Hungrybox 1-1
+	Mang0 1-1
+	Mew2King 3-1
+	Leffen 1-1
+	Plup 4-1
+	SFAT 5-0
+	Westballz 7-0
+Hungrybox
+	Armada 1-1
+	Mang0 2-1
+	Mew2King 3-2
+	Leffen 1-1
+	Plup 1-1
+	SFAT 0-1
+	Westballz 3-0
+Mango
+	Armada 1-1
+	Hungrybox 1-2
+	Mew2King 1-1
+	Leffen 1-1
+	Plup 2-0
+	SFAT 3-2
+	Westballz 2-2
+M2K
+	Armada 1-3
+	Hungrybox 2-3
+	Mang0 1-1
+	Leffen 5-0
+	Plup 1-2
+	SFAT 4-1
+	Westballz 7-0
+Leffen
+	Armada 1-1
+	Hungrybox 1-1
+	Mang0 1-1
+	Mew2King 0-5
+	Plup 0-5
+	SFAT 5-0
+	Westballz 2-1
+Plup
+	Armada 1-4
+	Hungrybox 1-1
+	Mang0 0-2
+	Mew2King 2-1
+	Leffen 5-0
+	SFAT 3-2
+	Shroomed 2-2
+	Westballz 2-0

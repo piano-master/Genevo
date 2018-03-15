@@ -1,0 +1,206 @@
+Hungrybox
+	Leffen 1-1
+	Armada 1-0
+	Mang0 1-0
+	Duck 1-0
+	PewPewU 1-0
+	Nightmare 1-0
+Leffen
+	Hungrybox 1-1
+	Armada 1-0
+	Shroomed 1-0
+	Mang0 1-0
+	Axe 1-0
+	Westballz 1-0
+	n0ne 1-0
+	Ice 1-0
+	Professor_Pro 1-0
+	Nakamaman 1-0
+	Zain 0-1
+Armada
+	Leffen 0-1
+	Hungrybox 0-1
+	Shroomed 1-0
+	Westballz 1-0
+	dizzkidboogie 1-0
+	FatGoku 1-0
+Shroomed
+	Leffen 0-1
+	Plup 2-0
+	Armada 0-1
+	S2J 1-0
+	Chillindude 1-0
+Mang0
+	Leffen 0-1
+	Hungrybox 0-1
+	SFAT 1-0
+	Ice 1-0
+	homemadewaffles 1-0
+Plup
+	Shroomed 0-2
+	Wizzrobe 1-0
+	AbsentPage 1-0
+	Duck 1-0
+	Zain 1-0
+	Gahtzu 1-0
+Axe
+	Leffen 0-1
+	llod 1-0
+	Duck 0-1
+Wizzrobe
+	Plup 0-1
+	Rishi 1-0
+	Westballz 0-1
+	Chillindude 1-0
+	llod 1-0
+Westballz
+	Armada 0-1
+	Wizzrobe 1-0
+	Kels 1-0
+	Leffen 0-1
+	Cal 1-0
+S2J
+	Shroomed 0-1
+	Zain 1-0
+	Professor_Pro 1-0
+	Axe 0-1
+Duck
+	Hungrybox 0-1
+	Axe 1-0
+	Android 1-0
+	Plup 0-1
+SFAT
+	Mang0 0-1
+	n0ne 1-0
+	Drephen 1-0
+	Wizzrobe 0-1
+dizzkidboogie
+	Armada 0-1
+	Lucky 1-0
+	Chillindude 0-1
+Zain
+	S2J 0-1
+	Leffen 1-0
+	Plup 0-1
+	homemadewaffles 1-0
+	Reeve 1-0
+PewPewU
+	Hungrybox 0-1
+	MacD 1-0
+	Lucky 0-1
+Ice
+	Mang0 0-1
+	Colbol 1-0
+	Leffen 0-1
+n0ne
+	SFAT 0-1
+	Gahtzu 1-0
+	Leffen 0-1
+	AbsentPage 1-0
+Chillindude
+	Wizzrobe 0-1
+	dizzkidboogie 1-0
+	Nightmare 1-0
+	MacD 1-0
+	Trulliam 1-0
+	Shroomed 0-1
+Lucky
+	Axe 0-1
+	PewPewU 1-0
+	FatGoku 1-0
+	Morsecode762 1-0
+Gahtzu
+	Plup 0-1
+	Drephen 1-0
+	4% 1-0
+	n0ne 0-1
+	ORLY 1-0
+homemadewaffles
+	Zain 0-1
+	Colbol 1-0
+	Rik 1-0
+	Mang0 0-1
+llod
+	Wizzrobe 0-1
+	Android 1-0
+	Axe 0-1
+	Bobby_Frizz 1-0
+AbsentPage
+	n0ne 0-1
+	Vro 1-0
+	Plup 0-1
+	Trulliam 1-0
+Kels
+	Axe 0-1
+	Rishi 1-0
+	Westballz 0-1
+	Junebug 1-0
+Drephen
+	Gahtzu 0-1
+	SFAT 0-1
+	MattDotZeb 1-0
+Colbol
+	homemadewaffles 0-1
+	Junebug 1-0
+	Ice 0-1
+Android
+	llod 0-1
+	Reeve 1-0
+	Duck 0-1
+	Nakamaman 1-0
+Nightmare
+	Chillindude 0-1
+	Crunch 1-0
+	Hungrybox 0-1
+	Vro 1-0
+Vro
+	AbsentPage 0-1
+	Nightmare 0-1
+Professor_Pro
+	Leffen 0-1
+	Bobby_Frizz 1-0
+	S2J 0-1
+Rishi
+	Kels 0-1
+	Wizzrobe 0-1
+	Rik 1-0
+FatGoku
+	Lucky 0-1
+	Armada 0-1
+	4% 1-0
+4%
+	Gahtzu 0-1
+	FatGoku 0-1
+Junebug
+	Colbol 0-1
+	Kels 0-1
+Rik
+	homemadewaffles 0-1
+	Rishi 0-1
+Reeve
+	Android 0-1
+	Zain 0-1
+MacD
+	Chillindude 0-1
+Crunch
+	Nightmare 0-1
+	Trulliam 0-1
+Bobby_Frizz
+	Professor_Pro 0-1
+Nakamaman
+	Leffen 0-1
+	Android 0-1
+Morsecode762
+	Lucky 0-1
+	MattDotZeb 1-0
+Cal
+	Westballz 0-1
+Trulliam
+	Crunch 1-0
+	AbsentPage 0-1
+	Chillindude 0-1
+MattDotZeb
+	Drephen 0-1
+	Morsecode762 0-1
+ORLY
+	Gahtzu 0-1

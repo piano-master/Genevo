@@ -1,0 +1,242 @@
+Mang0
+	Mew2King 2-0
+	Plup 1-0
+	Axe 1-0
+	Crush 1-0
+	$mike 1-0
+	Darktooth 1-0
+	UltimaScout 1-0
+Mew2King
+	Mang0 0-2
+	Plup 1-0
+	Hungrybox 1-0
+	Zain 1-0
+	Westballz 1-0
+	HugS 1-0
+Plup
+	Mew2King 0-1
+	Mang0 0-1
+	Hungrybox 1-0
+	Leffen 1-0
+	Syrox 1-0
+	Redd 1-0
+Hungrybox
+	Zain 1-0
+	Plup 0-1
+	Axe 1-0
+	Mew2King 0-1
+	KirbyKaze 1-0
+	Ginger 1-0
+	mayb 1-0
+Zain
+	Mew2King 0-1
+	SFAT 1-0
+	llod 1-0
+	Hungrybox 0-1
+	Rishi 1-0
+	ChuDat 1-0
+Axe
+	Hungrybox 0-1
+	PewPewU 1-0
+	KirbyKaze 1-0
+	Mang0 0-1
+	Druggedfox 1-0
+	Jerry 1-0
+	Animal 1-0
+SFAT
+	Zain 0-1
+	ChuDat 1-0
+	Ginger 1-0
+	Westballz 0-1
+	Drunksloth 1-0
+Leffen
+	Plup 0-1
+	PewPewU 1-0
+	llod 1-0
+PewPewU
+	Axe 0-1
+	Westballz 1-0
+	Syrox 1-0
+	Jerry 1-0
+	Leffen 0-1
+	dizzkidboogie 1-0
+llod
+	Zain 0-1
+	Swedish_Delight 1-0
+	Druggedfox 1-0
+	dizzkidboogie 1-0
+	Leffen 0-1
+	Drephen 1-0
+dizzkidboogie
+	PewPewU 0-1
+	Drephen 1-0
+	llod 0-1
+Drephen
+	llod 0-1
+	dizzkidboogie 0-1
+KirbyKaze
+	Axe 0-1
+	Rishi 1-0
+	Drunksloth 1-0
+	Hungrybox 0-1
+	MikeHaze 1-0
+MikeHaze
+	Ginger 0-1
+	Chillindude 1-0
+	KirbyKaze 0-1
+	Reno 1-0
+Chillindude
+	Ginger 0-1
+	SmashBob SquarePants 1-0
+	mayb 1-0
+	MikeHaze 0-1
+Reno
+	MikeHaze 0-1
+mayb
+	Hungrybox 0-1
+	Chillindude 0-1
+SmashBob_SquarePants
+	Fendrick_Lamar 1-0
+	UltimaScout 1-0
+	Chillindude 0-1
+Westballz
+	PewPewU 0-1
+	Mew2King 0-1
+	SFAT 1-0
+	iBDW 1-0
+	Atomsk 1-0
+Mafia
+	Drunksloth 0-2
+	iBDW 1-0
+Drunksloth
+	Mafia 2-0
+	SFAT 0-1
+	Atomsk 1-0
+	KirbyKaze 0-1
+Atomsk
+	Westballz 0-1
+	MacD 1-0
+	Drunksloth 0-1
+iBDW
+	Westballz 0-1
+	Mafia 0-1
+MacD
+	Atomsk 0-1
+Swedish_Delight
+	llod 0-1
+	Crush 1-0
+	Redd 1-0
+	Syrox 0-1
+	Rik 1-0
+Zealous5000
+	Syrox 0-1
+	Nightmare 0-1
+Rik
+	Swedish_Delight 0-1
+	Nightmare 0-1
+Nightmare
+	Zealous5000 1-0
+	Rik 1-0
+	Redd 0-1
+Redd
+	Plup 0-1
+	Nightmare 1-0
+	Swedish_Delight 0-1
+ChuDat
+	SFAT 0-1
+	HugS 1-0
+	Zain 0-1
+	Kaeon 1-0
+homemadewaffles
+	Rishi 0-1
+Kaeon
+	Rishi 0-1
+	ChuDat 0-1
+Rishi
+	KirbyKaze 0-1
+	MilkMan 1-0
+	Zain 0-1
+	Kaeon 1-0
+	homemadewaffles 1-0
+Syrox
+	PewPewU 0-1
+	KJH 1-0
+	Plup 0-1
+	Swedish_Delight 1-0
+	Zealous5000 1-0
+Crush
+	Swedish_Delight 0-1
+	Mang0 0-1
+	KJH 1-0
+	Crunch 1-0
+Vish
+	KJH 0-1
+	Crunch 0-1
+Crunch
+	Crush 0-1
+	Vish 1-0
+	$mike 0-1
+Darktooth
+	Mang0 0-1
+	Junebug 1-0
+	KJH 0-1
+$mike
+	Junebug 1-0
+	Mang0 0-1
+	Crunch 1-0
+	KJH 0-1
+Junebug
+	$mike 0-1
+	Darktooth 0-1
+Druggedfox
+	llod 0-1
+	Axe 0-1
+	Colbol 1-0
+	hat 1-0
+Captain_Smuckers
+	Jerry 0-2
+	2saint 1-0
+	Animal 1-0
+	Colbol 1-0
+2saint
+	Captain_Smuckers 0-1
+Jerry
+	Captain_Smuckers 2-0
+	Axe 0-1
+	Vro 1-0
+	PewPewU 0-1
+Colbol
+	Vro 1-0
+	Druggedfox 0-1
+	Captain_Smuckers 0-1
+Vro
+	Colbol 0-1
+	Jerry 0-1
+hat
+	Druggedfox 0-1
+HugS
+	ChuDat 0-1
+	Mew2King 0-1
+	Milkman 1-0
+	KPAN 1-0
+Nintendude
+	Milkman 0-2
+	KPAN 1-0
+KPAN
+	Nintendude 0-1
+	HugS 0-1
+Ginger
+	SFAT 0-1
+	MikeHaze 1-0
+	Chillindude 1-0
+	Hungrybox 0-1
+Milkman
+	Rishi 0-1
+	Nintendude 2-0
+	HugS 0-1
+KJH
+	Syrox 0-1
+	$mike 1-0
+	Darktooth 1-0
+	Crush 0-1
+	Vish 1-0

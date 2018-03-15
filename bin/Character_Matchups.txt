@@ -1,0 +1,155 @@
+Fox
+	Falco 50-50
+	Marth 50-50
+	Sheik 60-40
+	Puff 60-40
+	Peach 60-40
+	IC 60-40
+	Falcon 60-40
+	Pikachu 60-40
+	Samus 50-50
+	Yoshi 60-40
+	Luigi 60-40
+
+Falco
+	Fox 50-50
+	Marth 50-50
+	Sheik 60-40
+	Puff 60-40
+	Peach 50-50
+	IC 60-40
+	Falcon 60-40
+	Pikachu 60-40
+	Samus 50-50
+	Yoshi 60-40
+	Luigi 60-40
+
+Marth
+	Fox 50-50
+	Falco 50-50
+	Sheik 40-60
+	Puff 60-40
+	Peach 60-40
+	IC 60-40
+	Falcon 50-50
+	Pikachu 40-60
+	Samus 60-40
+	Yoshi 40-60
+	Luigi 70-30
+
+Sheik
+	Fox 40-60
+	Falco 40-60
+	Marth 60-40
+	Puff 40-60
+	Peach 60-40
+	IC 40-60
+	Falcon 60-40
+	Pikachu 60-40
+	Samus 60-40
+	Yoshi 60-40
+	Luigi 60-40
+
+Puff
+	Fox 40-60
+	Falco 40-60
+	Marth 40-60
+	Sheik 60-40
+	Peach 70-30
+	IC 60-40
+	Falcon 60-40
+	Pikachu 60-40
+	Samus 60-40
+	Yoshi 60-40
+	Luigi 60-40
+
+Peach
+	Fox 40-60
+	Falco 50-50
+	Marth 40-60
+	Sheik 40-60
+	Puff 30-70
+	IC 70-30
+	Falcon 40-60
+	Pikachu 60-40
+	Samus 50-50
+	Yoshi 60-40
+	Luigi 60-40
+
+IC
+	Fox 40-60
+	Falco 40-60
+	Marth 40-60
+	Sheik 60-40
+	Puff 40-60
+	Peach 30-70
+	Falcon 60-40
+	Pikachu 60-40
+	Samus 40-60
+	Yoshi 60-40
+	Luigi 40-60
+
+Falcon
+	Fox 40-60
+	Falco 40-60
+	Marth 50-50
+	Sheik 40-60
+	Puff 40-60
+	Peach 60-40
+	IC 40-60
+	Pikachu 50-50
+	Samus 60-40
+	Yoshi 60-40
+	Luigi 60-40
+	
+Pikachu
+	Fox 40-60
+	Falco 40-60
+	Marth 60-40
+	Sheik 40-60
+	Puff 40-60
+	Peach 40-60
+	IC 40-60
+	Falcon 50-50
+	Samus 40-60
+	Yoshi 60-40
+	Luigi 40-60
+	
+Samus
+	Fox 50-50
+	Falco 50-50
+	Marth 40-60
+	Sheik 40-60
+	Puff 40-60
+	Peach 50-50
+	IC 60-40
+	Falcon 40-60
+	Pikachu 60-40
+	Yoshi 60-40
+	Luigi 50-50
+	
+Yoshi
+	Fox 40-60
+	Falco 40-60
+	Marth 60-40
+	Sheik 40-60
+	Puff 40-60
+	Peach 40-60
+	IC 40-60
+	Falcon 40-60
+	Pikachu 40-60
+	Samus 40-60
+	Luigi 60-40
+
+Luigi
+	Fox 40-60
+	Falco 40-60
+	Marth 30-70
+	Sheik 40-60
+	Puff 40-60
+	Peach 40-60
+	IC 60-40
+	Falcon 40-60
+	Pikachu 60-40
+	Samus 50-50
+	Yoshi 40-60

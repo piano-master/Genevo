@@ -1,0 +1,391 @@
+Armada
+	Mang0 2-0
+	Mew2King 1-0
+	Axe 1-0
+	S2J 1-0
+	MacD 1-0
+	DJ_Nintendo 1-0
+Mang0
+	Armada 0-2
+	Hungrybox 2-0
+	Prince_Abu 1-0
+	Swedish_Delight 1-0
+	Nintendude 1-0
+	Tafokints 1-0
+	Crunch 1-0
+Hungrybox
+	Mang0 0-2
+	Mew2King 1-0
+	Plup 1-0
+	SFAT 1-0
+	Duck 1-0
+	Colbol 1-0
+	Hax 1-0
+Mew2King
+	Hungrybox 0-1
+	Lucky 1-0
+	Armada 0-1
+	Leffen 1-0
+	PewPewU 1-0
+	Bladewise 1-0
+	Ka-Master 1-0
+Plup
+	Hungrybox 0-1
+	La_Luna 1-0
+	Axe 1-0
+	Swedish_Delight 1-0
+	Ryan_Ford 1-0
+	Prince_Abu 0-1
+	AbsentPage 1-0
+	Squid 1-0
+	Darktooth 1-0
+Lucky
+	Mew2King 0-1
+	SFAT 1-0
+	Prince_Abu 1-0
+	Wizzrobe 1-0
+	S2J 1-0
+	Colbol 1-0
+	ARMY 1-0
+	Duck 0-1
+	Redd 1-0
+La_Luna
+	Plup 0-1
+	Leffen 1-0
+	Duck 1-0
+	ChuDat 1-0
+	Android 1-0
+	Ice 1-0
+	Wizzrobe 0-1
+	Rishi 1-0
+SFAT
+	Lucky 0-1
+	PewPewU 1-0
+	Hungrybox 0-1
+	ChuDat 1-0
+	Fiction 1-0
+	Chillindude 1-0
+S2J
+	Armada 0-1
+	Lucky 0-1
+	n0ne 1-0
+	Rustin 1-0
+Wizzrobe
+	Axe 0-1
+	La_Luna 1-0
+	Drephen 1-0
+	Lucky 0-1
+	Medz 1-0
+Axe
+	Wizzrobe 1-0
+	Armada 0-1
+	Plup 0-1
+	Android 1-0
+	homemadewaffles 1-0
+Silent_Wolf
+	Android 0-1
+	CDK 1-0
+	homemadewaffles 0-1
+CDK
+	homemadewaffles 0-1
+	SmashBob_SquarePants 1-0
+	Motoko 1-0
+	Silent_Wolf 0-1
+PewPewU
+	Mew2King 0-1
+	Rishi 1-0
+	Westballz 1-0
+	SFAT 0-1
+	Shroomed 1-0
+	Cactuar 1-0
+Cactuar
+	Medz 1-1
+	PewPewU 0-1
+Westballz
+	Leffen 0-1
+	aMSa 1-0
+	PewPewU 0-1
+	MikeHaze 1-0
+	Captain_Faceroll 1-0
+Drunksloth
+	Captain_Faceroll 0-1
+	Kels 0-1
+Captain_Faceroll
+	Drunksloth 1-0
+	Westballz 0-1
+	ilovebagelz 1-0
+	Kels 0-1
+Alan
+	Kels 0-1
+	ilovebagelz 0-1
+Duck
+	Hungrybox 0-1
+	llod 1-0
+	La_Luna 0-1
+	Lucky 1-0
+	Darkatma 1-0
+Darkatma
+	Vro 1-0
+	Duck 0-1
+	Nakamaman 1-0
+	Redd 0-1
+Vro
+	Darkatma 0-1
+	Eikelmann 1-0
+	Iceman 0-1
+ChuDat
+	SFAT 0-1
+	La_Luna 0-1
+	Amsah 1-0
+	Zhu 1-0
+Zhu
+	Tai 1-0
+	ChuDat 0-1
+	King_Momo 0-1
+dizzkidboogie
+	Bizzarro_Flame 1-0
+	Amsah 0-1
+	Tai 1-0
+	King_Momo 0-1
+Swedish_Delight
+	Mang0 0-1
+	Shroomed 1-0
+	Plup 0-1
+	Blea_Gelo 1-0
+	Ken 1-0
+Ken
+	Swedish_Delight 0-1
+	Ice 0-1
+Prince_Abu
+	Plup 1-0
+	Mang0 0-1
+	Lucky 0-1
+	HugS 1-0
+Druggedfox
+	aMSa 0-1
+	Prince_Abu 0-1
+aMSa
+	Druggedfox 1-0
+	AbsentPage 1-0
+	Westballz 0-1
+	MacD 0-1
+	DJ_Nintendo 1-0
+DJ_Nintendo
+	Armada 0-1
+	aMSa 0-1
+AbsentPage
+	Eddy_Mexico 1-0
+	aMSa 0-1
+	Plup 0-1
+	KJH 1-0
+	llod 1-0
+Squid
+	Plup 0-1
+	llod 0-1
+KJH
+	Zealous5000 1-0
+	AbsentPage 0-1
+	Darktooth 1-0
+	llod 0-1
+Darktooth
+	Plup 0-1
+	KJH 0-1
+Zealous5000
+	KJH 0-1
+	llod 0-1
+Eddy_Mexico
+	AbsentPage 0-1
+	ycz6 1-0
+	n0ne 0-1
+	Alex19 1-0
+	Rustin 1-0
+ycz6
+	Eddy_Mexico 0-1
+	Rustin 0-1
+	MegaXmas 1-0
+Rustin
+	Alex19 1-0
+	S2J 0-1
+	ycz6 1-0
+	Eddy_Mexico 0-1
+Alex19
+	Rustin 0-1
+	Eddy_Mexico 0-1
+MegaXmas
+	Bobby_Frizz 1-0
+	ycz6 0-1
+	Rustin 0-1
+Blea_Gelo
+	Rishi 0-1
+	Ice 1-0
+	Swedish_Delight 0-1
+Rishi
+	Blea_Gelo 1-0
+	Nintendude 1-0
+	PewPewU 0-1
+	Drephen 1-0
+	La_Luna 0-1
+Drephen
+	Phil 1-0
+	Wizzrobe 0-1
+	Rishi 0-1
+Nintendude
+	homemadewaffles 1-0
+	Rishi 0-1
+	Nintendude 0-1
+	DaShizWiz 1-0
+homemadewaffles
+	Nintendude 0-1
+	CDK 1-0
+	Axe 0-1
+	darkrain 1-0
+	Silent_Wolf 1-0
+Fiction
+	Ka-Master 0-1
+	Crush 1-0
+	SFAT 0-1
+Ka-Master
+	Fiction 1-0
+	Medz 0-1
+	Mew2King 0-1
+	Syrox 1-0
+Syrox
+	G$ 1-0
+	Bladewise 0-1
+	Ka-Master 0-1
+Amsah
+	Medz 0-1
+	King_Momo 1-0
+	dizzkidboggie 1-0
+	ChuDat 0-1
+Medz
+	Amsah 1-0
+	Ka-Master 1-0
+	Wizzrobe 0-1
+	Cactuar 1-1
+	Wobbles 1-0
+Wobbles
+	Shroomed 0-1
+	Medz 0-1
+ARMY
+	Lucky 0-1
+	Kalamazhu 2-0
+	Leffen 0-1
+Colbol
+	Kels 1-0
+	Lucky 0-1
+	Juggleguy 1-0
+	Laudandus 1-0
+	Hungrybox 0-1
+Kage
+	Hax 0-2
+	Laudandus 1-0
+Juggleguy
+	Colbol 0-1
+Kels
+	Colbol 0-1
+	Alan 1-0
+	MikeHaze 0-1
+	Drunksloth 1-0
+	Captain_Faceroll 1-0
+MikeHaze
+	Hax 1-0
+	Ryan_Ford 0-1
+	Kels 1-0
+	Westballz 0-1
+Hax
+	MikeHaze 0-1
+	Kage 2-0
+	Hungrybox 0-1
+Ryan_Ford
+	Redd 1-0
+	MikeHaze 1-0
+	Plup 0-1
+	gaR 1-0
+	Chris_Best 1-0
+	Leffen 0-1
+Chris_Best
+	Ryan_Ford 0-1
+	Kalamazhu 0-1
+Redd
+	Ryan_Ford 0-1
+	Nakamaman 1-0
+	Lucky 0-1
+	Iceman 1-0
+	Darkatma 1-0
+Shroomed
+	King_Momo 1-0
+	Crush 1-0
+	Swedish_Delight 0-1
+	Wobbles 1-0
+	PewPewU 0-1
+King_Momo
+	Shroomed 0-1
+	Amsah 0-1
+	Zhu 1-0
+	dizzkidboogie 1-0
+Bladewise
+	Crush 0-1
+	Syrox 1-0
+	Mew2King 0-1
+Crush
+	Bladewise 1-0
+	Shroomed 0-1
+	Fendrick_Lamar 1-0
+	Fiction 0-1
+Fendrick_Lamar
+	Crush 0-1
+	Toph 1-0
+Toph
+	Fendrick_Lamar 0-1
+Android
+	DaShizWiz 1-0
+	La_Luna 0-1
+	darkrain 1-0
+	Silent_Wolf 1-0
+	Axe 0-1
+DaShizWiz
+	Android 0-1
+	Gahtzu 2-0
+	Nintendude 0-1
+	Reno 1-0
+Tafokints
+	Reno 1-0
+	Mang0 0-1
+	Gahtzu 0-1
+Crunch
+	Mang0 0-1
+	Reno 0-1
+Reno
+	Tafokints 0-1
+	Crunch 1-0
+	DaShizWiz 0-1
+Gahtzu
+	DaShizWiz 0-2
+	Tafokints 1-0
+Ice
+	La_Luna 0-1
+	Blea_Gelo 0-1
+	Ken 1-0
+n0ne
+	llod 0-1
+	Bobby_Frizz 1-0
+	Eddy_Mexico 1-0
+	S2J 0-1
+llod
+	n0ne 1-0
+	MacD 1-0
+	Duck 0-1
+	AbsentPage 0-1
+	Vinodh 1-0
+	Zealous5000 1-0
+	Squid 1-0
+	KJH 1-0
+MacD
+	HugS 1-0
+	llod 0-1
+	aMSa 1-0
+	Armada 0-1
+HugS
+	MacD 0-1
+	Prince_Abu 0-1

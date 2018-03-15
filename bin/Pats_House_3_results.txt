@@ -1,0 +1,167 @@
+Duck
+	Zain 1-0
+	llod 1-0
+	Crush 1-0
+	SFAT 1-0
+	HugS 1-0
+	Rocky 1-0
+	Alex19 1-0
+Zain
+	Duck 0-1
+	llod 1-1
+	Crush 1-0
+	SFAT 1-0
+	Hax 1-0
+	dizzkidboogie 1-0
+	Kalamazhu 1-0
+llod
+	Zain 1-1
+	Duck 0-1
+	Santi 1-0
+	Eddy_Mexico 1-0
+Crush
+	Zain 0-1
+	Santi 1-0
+	Duck 0-1
+	PewPewU 1-0
+	Rishi 1-0
+	Squid 1-0
+SFAT
+	Zain 0-1
+	PewPewU 1-0
+	Duck 0-1
+	Prince_Abu 1-0
+	Rishi 1-0
+Santi
+	Crush 0-1
+	Syrox 1-0
+	llod 0-1
+	Lucky 1-0
+	Bladewise 1-0
+	Westballz 1-0
+PewPewU
+	SFAT 0-1
+	Prince_Abu 1-0
+	Crush 0-1
+	KJH 1-0
+	KPAN 1-0
+Syrox
+	Santi 0-1
+	Hax 1-1
+	Eddy_Mexico 1-0
+	Lucky 1-0
+Prince_Abu
+	PewPewU 0-1
+	Squid 1-0
+	Rustin 1-0
+	SFAT 0-1
+	ARMY 1-0
+Rishi
+	SFAT 0-1
+	ARMY 1-0
+	Rocky 1-0
+	Crush 0-1
+	Spark 1-0
+Squid
+	Prince_Abu 0-1
+	HugS 1-0
+	Ralph 1-0
+	Crush 0-1
+	Zorc 1-0
+ARMY
+	Rishi 0-1
+	KJH 1-0
+	Prince_Abu 0-1
+HugS
+	Squid 0-1
+	Duck 0-1
+	Tai 1-0
+Rustin
+	Prince_Abu 0-1
+	KPAN 1-0
+	Captain_Faceroll 1-0
+	Tai 0-1
+Rocky
+	Rishi 0-1
+	Kevbot 1-0
+	MegaXmas 1-0
+	Duck 0-1
+KJH
+	ARMY 0-1
+	PewPewU 0-1
+	Captain_Faceroll 1-0
+Ralph
+	Squid 0-1
+	Spark 1-0
+KPAN
+	Rustin 0-1
+	PewPewU 0-1
+Kevbot
+	Rocky 0-1
+	Tai 1-0
+	Reno 1-0
+	Prince_Abu 0-1
+Zack
+	ARMY 0-1
+	ycz6 1-0
+	SFAT 0-1
+Spark
+	Ralph 0-1
+	Rishi 0-1
+Captain_Faceroll
+	Rustin 0-1
+	KJH 0-1
+Tai
+	Kevbot 0-1
+	HugS 0-1
+ycz6
+	Zack 0-1
+	Spark 0-1
+Reno
+	Kevbot 0-1
+	Captain_Faceroll 0-1
+Hax
+	Syrox 1-1
+	Zain 0-1
+	Westballz 1-0
+Westballz
+	Santi 0-1
+	dizzkidboogie 1-0
+	Darkatma 1-0
+	Hax 0-1
+	NMW 1-0
+Eddy_Mexico
+	Syrox 0-1
+	Kalamazhu 1-0
+	llod 0-1
+	MikeHaze 1-0
+dizzkidboogie
+	Westballz 0-1
+	MikeHaze 1-0
+	Zain 0-1
+Kalamazhu
+	Eddy_Mexico 0-1
+	Zain 0-1
+Lucky
+	Syrox 0-1
+	Santi 0-1
+	Darkatma 1-0
+MikeHaze
+	dizzkidboogie 0-1
+	Eddy_Mexico 0-1
+Darkatma
+	Westballz 0-1
+	Bladewise 1-0
+	Ka-Master 1-0
+	Lucky 0-1
+NMW
+	Syrox 0-1
+	Azusa 1-0
+	Westballz 0-1
+Bladewise
+	Darkatma 0-1
+	Santi 0-1
+Azusa
+	NMW 0-1
+Ka-Master
+	Darkatma 0-1

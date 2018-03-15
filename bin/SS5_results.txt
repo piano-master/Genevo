@@ -1,0 +1,100 @@
+Hungrybox
+	Armada 1-0
+	Leffen 1-0
+	Mang0 1-0
+	SFAT 1-0
+	Wizzrobe 1-0
+	aMSa 1-0
+	Blea_Gelo 1-0
+Armada
+	Hungrybox 0-1
+	Leffen 1-1
+	Mang0 1-0
+	Axe 1-0
+	Wizzrobe 1-0
+	Plup 1-0
+	Shroomed 1-0
+	MikeHaze 1-0
+Leffen
+	Armada 1-1
+	Hungrybox 0-1
+	Plup 1-0
+	Mang0 1-0
+	Crush 1-0
+	S2J 1-0
+Mang0
+	Armada 0-1
+	Plup 1-0
+	Hungrybox 0-1
+	Axe 1-0
+	Leffen 0-1
+	Crush 1-0
+	S2J 1-0
+Plup
+	Mang0 0-1
+	Wizzrobe 1-0
+	MikeHaze 2-0
+	Leffen 0-1
+	Armada 0-1
+	Shroomed 1-0
+Axe
+	Armada 0-1
+	SFAT 2-0
+	Mew2King 2-0
+	Mang0 0-1
+	Hax 1-0
+Wizzrobe
+	Plup 0-1
+	Crush 1-0
+	Armada 0-1
+	Hungrybox 0-1
+	aMSa 1-0
+	Blea_Gelo 1-0
+SFAT
+	Axe 0-2
+	S2J 1-0
+	Hungrybox 0-1
+	Mew2King 1-0
+	Hax 1-0
+MikeHaze
+	Plup 0-2
+	Hax 1-0
+	Armada 0-1
+	Shroomed 1-0
+Crush
+	Wizzrobe 0-1
+	Shroomed 1-0
+	Mang0 0-1
+	Leffen 0-1
+	S2J 1-0
+Mew2King
+	Axe 0-2
+	Blea_Gelo 1-0
+	SFAT 0-1
+	Hax 1-0
+S2J
+	SFAT 0-1
+	aMSa 1-0
+	Mang0 0-1
+	Leffen 0-1
+	Crush 0-1
+Hax
+	MikeHaze 0-1
+	Mew2King 0-1
+	SFAT 0-1
+	Axe 0-1
+Shroomed
+	Crush 0-1
+	Armada 0-1
+	Plup 0-1
+	MikeHaze 0-1
+Blea_Gelo
+	Mew2King 0-1
+	Hungrybox 0-1
+	Wizzrobe 0-1
+	aMSa 0-1
+aMSa
+	S2J 0-1
+	Hungrybox 0-1
+	Wizzrobe 0-1
+	Blea_Gelo 1-0
